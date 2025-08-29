@@ -23,6 +23,7 @@
     {
       "group": "Guides",
       "pages": [
+        "guides/pricing",
         "guides/authentication",
         "guides/webhooks"
       ]
