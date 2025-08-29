@@ -1,4 +1,16 @@
 {
-"index": "Home",
-"pricing": "Pricing"
+  "index": "Home",
+  "quickstart": "Quickstart",
+  "api-playground": "API Playground",
+  "api-reference": {
+    "type": "menu",
+    "title": "API Reference"
+  },
+  "guides": {
+    "type": "menu",
+    "title": "Guides"
+  },
+  "guides/pricing": "Pricing",
+  "guides/authentication": "Authentication",
+  "guides/webhooks": "Webhooks"
 }
