@@ -1,14 +1,32 @@
 {
-"name": "Swift Hosting Docs",
-"theme": "dark",
-"favicon": "/favicon.svg",
-"logo": {
-"light": "/logo/light.svg",
-"dark": "/logo/dark.svg"
-},
-"colors": {
-"primary": "#8B5CF6",
-"light": "#f3f4f6",
-"dark": "#1f2937"
-}
+  "name": "My Project",
+  "logo": {
+    "dark": "/logo/dark.png",
+    "light": "/logo/light.png"
+  },
+  "favicon": "/favicon.svg",
+  "theme": "venus",
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "index",
+        "quickstart",
+        "api-playground"
+      ]
+    },
+    {
+      "group": "API Reference",
+      "pages": [
+        "api-reference/introduction"
+      ]
+    },
+    {
+      "group": "Guides",
+      "pages": [
+        "guides/authentication",
+        "guides/webhooks"
+      ]
+    }
+  ]
 }
